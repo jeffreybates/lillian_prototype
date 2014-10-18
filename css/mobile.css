@@ -1,0 +1,43 @@
+/* Mobile*/
+
+
+
+@media only screen and (min-device-width : 400px) and (max-device-width : 1000px) {
+        #vid_content video {
+        max-width: 95%;
+          clear: both;
+          padding-left: 10px;
+        }
+
+h1{
+	font-size: 14em;
+}
+
+p{
+	font-size: 7em;
+}
+
+
+#question{
+	padding-top: 10px;
+}
+
+.thebox {
+  font-size: 5em;
+  max-width: 95%;
+}
+
+.other_results li h2{
+	font-size: 7em;
+}
+
+.other_results li {
+	font-size: 5em;
+}
+
+
+.other_results{
+	padding-left: 20px;
+	padding-right: 10px;
+}
+}

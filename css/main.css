@@ -1,0 +1,88 @@
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	margin-left: 50px;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+
+}
+
+
+p {
+	text-align: left;
+	margin-left: 50px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	max-width: 400px;
+}
+
+
+div {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+
+
+#question {
+	margin-left: 50px;
+	margin-right: 100px;
+}
+
+#question .your_words .thebox{
+width: 400px;
+height: 200px;
+
+
+}
+
+.thebox {
+
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+#question .your_words .thebox{
+
+max-width: 400px;
+}
+
+.show_button li{
+	background-color: green;
+	border-radius: 20px;
+	padding-left: 7px;
+	padding-right: 7px;
+	display: inline-block;
+	margin-top: 10px;
+	font-weight: 300;
+	color: white;
+	font-size: .75;
+
+}
+
+.other_results ul{
+	clear: both;
+}
+
+.other_results li{
+	display: inline-block;
+	text-decoration: none;
+	list-style: none;
+	max-width: 400px;
+	background-color: orange;
+	border-radius: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+
+}
+
+
